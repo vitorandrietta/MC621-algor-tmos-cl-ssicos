@@ -1,2 +1,2 @@
-# MC621-algor-tmos-cl-ssicos
-an repository to store the classic algorithms used to solve contest problems
+# MC621-algorítmos-clássicos
+a repository to store the classic algorithms used to solve contest problems
